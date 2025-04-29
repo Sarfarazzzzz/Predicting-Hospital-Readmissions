@@ -34,7 +34,7 @@ We apply a range of machine learning techniques to build predictive models and i
 - Applied and fine-tuned multiple models using GridSearchCV
 - Evaluation based on macro-averaged F1-score to handle moderate class imbalance
   
-##### Final Model Evaluation
+##### Final Model Evaluation:
 
 - Selected Random Forest Classifier as the best model
 - Achieved Precision: 65.6%, Recall: 62.7%, F1-Score: 64.1%, AUC: 0.742 on validation set
